@@ -1,3 +1,17 @@
+# 👥 User List App (React + Axios)
+
+Welcome! This is a simple React app that fetches and displays a list of users from a free online API. It’s perfect for learning how to use `Axios`, `useEffect`, and `useState` in a real-world way!
+
+---
+
+## 🧠 What This App Does
+
+- ✅ Connects to an API (jsonplaceholder.typicode.com)
+- ✅ Fetches a list of fake users
+- ✅ Displays each user’s name, email, and city
+- ✅ Makes you feel like a frontend developer 😎
+
+---
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
